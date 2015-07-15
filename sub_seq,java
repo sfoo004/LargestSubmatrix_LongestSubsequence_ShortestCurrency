@@ -1,0 +1,30 @@
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+/**
+ *
+ * @author stevefoo
+ */
+public class sub_seq {
+    
+    int row = 0;
+    int column = 0;
+    int value = 0;
+    char r_letter;
+    char c_letter;
+    boolean changed = false;
+    
+    public sub_seq(int row, int col, char r_letter, char c_letter){
+        this.row = row;
+        this.column = col;
+        this.r_letter = r_letter;
+        this.c_letter = c_letter;
+    }
+    
+}
