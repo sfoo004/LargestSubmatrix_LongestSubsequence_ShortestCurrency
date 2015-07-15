@@ -1,0 +1,9 @@
+This assignment contains three parts.
+
+Find the largest square submatrix containing only 1s in the following file:
+
+Find the longest common subsequence among the first two lines in the following file (note that the file has exactly two lines)
+
+Assume that U.S. currency consists of a 1, 5, 10, 18, and 25 cent piece. Note the new 18 cent piece. Show the optimal way (minimum number of coins) to make change for 1, 2, ... 100 cents.
+
+Your submission should include one document with the answers to the questions and then a program that computes the information requested. Place the document and the program in an appropriately named zip file.
